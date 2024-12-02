@@ -1,3 +1,3 @@
-module day_01
+module project
 
 go 1.23.3
